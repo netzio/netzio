@@ -19,8 +19,12 @@ I’m a Software Engineer based in **Johannesburg, South Africa**, passionate ab
 
 ## 🧑‍💼 Professional Experience
 
+### Software Engineer (Promotion) – Altron Digital Business 
+*May 2025 – Present | Johannesburg, South Africa* 
+- Recent promotion
+
 ### Junior Software Engineer – Altron Digital Business  
-*Apr 2023 – Present | Johannesburg, South Africa*  
+*Apr 2023 – May 2025 | Johannesburg, South Africa*  
 - Led development of an **employee appraisal system** from frontend to backend  
 - Implemented **Single Sign-On (SSO)** using AWS Cognito  
 - Achieved **86% unit test coverage** with robust integration tests  
