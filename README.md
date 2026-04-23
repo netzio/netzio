@@ -20,7 +20,7 @@ I’m a Software Engineer based in **Johannesburg, South Africa**, passionate ab
 ## 🧑‍💼 Professional Experience
 
 ### Software Engineer - Entelect
-*1 September 2026 | Johannesburg, South Africa*
+*1 September 2025 - Present | Johannesburg, South Africa*
 
 
 ### Software Engineer (Promotion) – Altron Digital Business 
